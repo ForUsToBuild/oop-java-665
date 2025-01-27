@@ -152,4 +152,4 @@ Each vehicle class must implement unique:
 - Design Creativity: 5%
 - Documentation: 5%
 
-Good luck, and happy coding-Joe!
+Good luck, and happy coding!
